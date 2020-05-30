@@ -1,4 +1,4 @@
-### Spam SMS Classification
+### SMS Spam Classification
 > Data Source:<br>
 https://archive.ics.uci.edu/ml/datasets/sms+spam+collection <br>
 
